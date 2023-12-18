@@ -1,2 +1,2 @@
 # touch
-My own `touch` unix-like command written in D.
+My own _Quick and Dirty_ `touch` unix-like command written in D.
